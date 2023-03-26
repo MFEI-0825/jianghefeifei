@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mfei-0825.github.io/jianghefeifei/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://mfei-0825.github.io/jianghefeifei/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mfei-0825.github.io/jianghefeifei/home-unused/slider/</loc>
+  </url><url>
+    <loc>https://mfei-0825.github.io/jianghefeifei/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://mfei-0825.github.io/jianghefeifei/home-unused/hero/</loc>
   </url><url>
@@ -37,6 +46,9 @@
     <loc>https://mfei-0825.github.io/jianghefeifei/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://mfei-0825.github.io/jianghefeifei/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://mfei-0825.github.io/jianghefeifei/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -63,6 +75,12 @@
   </url><url>
     <loc>https://mfei-0825.github.io/jianghefeifei/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mfei-0825.github.io/jianghefeifei/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mfei-0825.github.io/jianghefeifei/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mfei-0825.github.io/jianghefeifei/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
