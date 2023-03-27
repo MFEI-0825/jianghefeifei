@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hefeifei Jiang | He-feifei Jiang</title>
-    <link>https://mfei-0825.github.io/jianghefeifei/author/hefeifei-jiang/</link>
-      <atom:link href="https://mfei-0825.github.io/jianghefeifei/author/hefeifei-jiang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hefeifei Jiang</description>
+    <title>8 | He-feifei Jiang</title>
+    <link>https://mfei-0825.github.io/jianghefeifei/publication-type/8/</link>
+      <atom:link href="https://mfei-0825.github.io/jianghefeifei/publication-type/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mfei-0825.github.io/jianghefeifei/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Hefeifei Jiang</title>
-      <link>https://mfei-0825.github.io/jianghefeifei/author/hefeifei-jiang/</link>
+      <title>8</title>
+      <link>https://mfei-0825.github.io/jianghefeifei/publication-type/8/</link>
     </image>
     
     <item>
@@ -17,26 +17,6 @@
       <link>https://mfei-0825.github.io/jianghefeifei/publication/digu_sta/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://mfei-0825.github.io/jianghefeifei/publication/digu_sta/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Extracting Fingerprint Features Using Autoencoder Networks for Gender Classification</title>
-      <link>https://mfei-0825.github.io/jianghefeifei/publication/fingerprint/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://mfei-0825.github.io/jianghefeifei/publication/fingerprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
